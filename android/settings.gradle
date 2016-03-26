@@ -1,0 +1,3 @@
+rootProject.name = 'floatButton'
+
+include ':app'
